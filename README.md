@@ -7,4 +7,4 @@ This repository contains all of the notes taken by [Austin](https://github.com/M
 ## Table of Contents
 
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Daty_1)
+  * [Day 1](/Week_1/Day_1)
